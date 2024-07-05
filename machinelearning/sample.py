@@ -1,4 +1,1 @@
-print("Hello World")
-print("wakewakame")
-print("Hello World")
-print("wakewakame")
+print("God's in his heaven,All's right in the world")
