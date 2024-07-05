@@ -1,2 +1,2 @@
-print("God's in his heaven,All's right in the world")
 
+print("God's in his heaven,All's right in the world")
